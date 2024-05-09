@@ -1,0 +1,16 @@
+{
+  "name": "stop_watch",
+  "version": "1.0.0",
+  "description": "Crafted a stopwatch using HTML, CSS, and JavaScript. Now, you can effortlessly manage time—start, pause, reset, and even track lap times!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
